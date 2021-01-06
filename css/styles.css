@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.25em;
+  color: #40514e;
+}
+.media{
+  width: 5%;
+  padding: 10px;
+
+
+}
+a:hover{
+  color: #eaf6f6;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 1rem;
+  padding: 20px 0;
+
+
+}
+
+
+
+h1 {
+  color: #184d47;
+  font-size: 5rem;
+  margin: 4rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-weight: normal;
+  color: #184d47;
+  font-size: 2.5rem;
+  font-family: 'Monsterrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #00917c;
+  font-family: 'Monsterrat', sans-serif;
+}
+.skills{
+  margin: 0;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #a3ddcb;
+  padding-top: 100px;
+  position: relative;
+}
+.intro{
+  width: 35%;
+
+  margin: auto;
+}
+.btn {
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: 'Monsterrat', sans-serif;
+  color: #ffffff;
+  font-size: 30px;
+  background: #27a386;
+  padding: 7px 20px 11px 23px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #0b4a73);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #0b4a73);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #0b4a73);
+  background-image: -o-linear-gradient(top, #3cb0fd, #0b4a73);
+  background-image: linear-gradient(to bottom, #3cb0fd, #0b4a73);
+  text-decoration: none;
+}
+.contact{
+  width: 40%;
+  margin: 40px auto 50px auto;
+}
+p{
+  line-height: 1.5;
+}
+hr{
+  border: dotted #a6a9b6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto 100px auto;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.java{
+  margin-right: 30px;
+  float: left;
+  width: 25%;
+position: relative;
+bottom: 40px;
+}
+.web{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+img {}
